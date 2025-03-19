@@ -1,9 +1,14 @@
-# tecnologias web - Preparación AE1
+# Tecnologias Web - AE1
 # Pasos para la Ejecución del Proyecto
 
 ## 1. Descargar el Repositorio  
 
 https://github.com/tuxburn/WEB_EA1.git
+
+
+```bash
+git clone https://github.com/tuxburn/WEB_EA1
+```
 
 ## 2. Crear un Entorno Virtual
 Ejecuta el siguiente comando para crear un entorno virtual en Python:
