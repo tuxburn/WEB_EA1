@@ -1,7 +1,7 @@
 # tecnologias web - Preparación AE1
 # Pasos para la Ejecución del Proyecto
 
-## 1. Descargar el Repositorio
+## 1. Descargar el Repositorio 
 
 https://github.com/tuxburn/WEB_EA1.git
 
